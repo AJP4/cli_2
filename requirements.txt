@@ -1,6 +1,6 @@
 atomicwrites==1.2.1
 attrs==18.2.0
--e git+https://github.com/AJP4/cli_2#egg=cli_package
+-e git+https://github.com/AJP4/cli_2.git@2c33e9ece93a085f9ee791b93ee3fea34b48c430#egg=cli_package
 colorama==0.3.9
 et-xmlfile==1.0.1
 jdcal==1.4
