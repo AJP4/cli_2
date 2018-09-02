@@ -9,3 +9,9 @@ I also created some pycharm helpers:
 plugins:  commandline and batch (requires restart)
 
 
+Installations from [github](https://codeinthehole.com/tips/using-pip-and-requirementstxt-to-install-from-the-head-of-a-github-branch/).  How to guide. 
+
+
+
+
+
