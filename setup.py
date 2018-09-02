@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cli_package',
-    version='0.0.2',
+    version='0.0.3',
     packages=['cli_package'],
     url='URL',
     license='License',
