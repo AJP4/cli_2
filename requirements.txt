@@ -1,7 +1,5 @@
 atomicwrites==1.2.1
 attrs==18.2.0
-## !! Could not determine repository location
-cli-package==0.0.1
 colorama==0.3.9
 et-xmlfile==1.0.1
 jdcal==1.4
