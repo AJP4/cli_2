@@ -1,5 +1,5 @@
 class Constants():
-    MYNAME = "ANDY PHILLIPS"
+    MYNAME = "ANDY JOHN PHILLIPS"
     MYEMAIL = "phillipsaje@gmail.com"
 
     def say(self):

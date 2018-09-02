@@ -1,0 +1,10 @@
+setup.py
+cli_package/__init__.py
+cli_package/__main__.py
+cli_package/classexample.py
+cli_package/helperfunctions.py
+cli_package.egg-info/PKG-INFO
+cli_package.egg-info/SOURCES.txt
+cli_package.egg-info/dependency_links.txt
+cli_package.egg-info/entry_points.txt
+cli_package.egg-info/top_level.txt
